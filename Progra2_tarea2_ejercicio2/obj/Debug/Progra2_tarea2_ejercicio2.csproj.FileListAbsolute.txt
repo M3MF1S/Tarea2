@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\bin\Debug\Progra2_tarea2_ejercicio2.exe.config
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\bin\Debug\Progra2_tarea2_ejercicio2.exe
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\bin\Debug\Progra2_tarea2_ejercicio2.pdb
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\obj\Debug\Progra2_tarea2_ejercicio2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\obj\Debug\Progra2_tarea2_ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\obj\Debug\Progra2_tarea2_ejercicio2.exe
+C:\Users\HP\Documents\C#\Progra2_tarea2_ejercicio2\obj\Debug\Progra2_tarea2_ejercicio2.pdb
